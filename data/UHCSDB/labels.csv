@@ -1,0 +1,804 @@
+filepath,label
+data/UHCSDB/micrographs/micrograph1.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph2.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph4.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph5.tif,AC1 750C 5M WQ
+data/UHCSDB/micrographs/micrograph6.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph7.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph8.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph9.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph10.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph11.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph13.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph14.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph18.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph20.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph21.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph24.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph26.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph29.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph30.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph32.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph35.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph36.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph37.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph39.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph41.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph42.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph44.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph48.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph49.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph51.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph53.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph58.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph59.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph60.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph65.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph67.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph68.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph69.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph70.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph71.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph72.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph74.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph75.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph76.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph80.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph82.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph86.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph88.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph89.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph90.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph91.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph95.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph97.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph98.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph99.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph104.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph106.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph107.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph111.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph113.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph114.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph119.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph121.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph122.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph124.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph130.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph133.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph135.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph138.tif,AC1 970C 48H WQ
+data/UHCSDB/micrographs/micrograph148.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph150.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph152.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph154.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph156.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph157.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph160.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph161.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph162.tif,AC1 970C 48H WQ
+data/UHCSDB/micrographs/micrograph168.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph169.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph170.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph171.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph172.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph173.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph176.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph177.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph178.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph180.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph184.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph185.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph188.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph189.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph191.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph192.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph193.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph194.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph195.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph196.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph198.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph200.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph201.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph202.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph205.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph209.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph210.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph211.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph212.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph214.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph218.tif,AC1 750C 5M WQ
+data/UHCSDB/micrographs/micrograph220.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph221.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph222.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph223.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph224.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph229.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph231.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph233.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph234.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph235.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph237.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph242.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph243.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph247.tif,AC1 750C 5M WQ
+data/UHCSDB/micrographs/micrograph248.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph251.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph252.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph253.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph255.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph257.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph261.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph265.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph269.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph271.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph272.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph273.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph280.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph283.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph285.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph286.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph295.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph296.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph297.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph301.tif,AC1 750C 5M WQ
+data/UHCSDB/micrographs/micrograph305.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph306.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph308.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph309.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph311.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph312.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph313.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph314.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph316.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph318.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph319.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph321.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph322.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph325.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph326.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph329.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph330.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph333.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph337.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph343.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph345.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph347.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph349.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph351.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph352.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph353.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph354.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph357.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph359.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph360.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph363.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph364.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph366.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph367.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph368.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph369.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph371.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph373.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph375.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph376.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph380.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph381.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph382.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph383.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph384.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph386.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph387.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph388.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph391.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph396.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph397.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph398.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph401.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph402.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph403.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph406.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph407.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph408.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph411.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph418.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph419.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph421.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph422.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph427.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph430.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph433.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph435.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph436.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph437.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph440.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph441.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph442.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph443.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph447.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph449.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph451.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph452.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph454.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph457.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph458.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph459.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph463.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph464.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph465.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph466.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph468.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph470.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph471.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph472.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph474.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph475.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph477.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph479.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph480.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph481.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph483.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph484.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph486.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph487.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph488.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph489.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph490.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph492.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph493.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph495.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph499.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph502.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph512.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph514.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph515.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph517.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph518.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph520.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph522.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph523.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph524.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph528.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph530.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph532.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph534.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph535.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph536.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph537.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph543.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph544.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph545.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph548.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph551.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph553.tif,AC1 900C 5M Q
+data/UHCSDB/micrographs/micrograph554.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph555.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph558.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph561.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph565.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph566.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph568.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph569.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph573.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph576.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph579.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph584.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph586.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph589.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph592.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph594.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph596.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph597.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph598.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph599.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph601.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph604.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph607.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph608.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph609.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph610.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph611.tif,AC1 970C 48H WQ
+data/UHCSDB/micrographs/micrograph615.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph616.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph625.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph626.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph628.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph632.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph633.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph639.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph640.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph641.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph642.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph643.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph646.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph649.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph650.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph655.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph659.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph660.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph664.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph670.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph671.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph677.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph678.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph679.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph681.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph682.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph683.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph684.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph685.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph687.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph689.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph691.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph694.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph699.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph702.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph704.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph705.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph707.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph708.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph710.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph714.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph717.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph718.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph721.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph725.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph727.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph728.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph732.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph734.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph736.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph738.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph741.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph742.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph744.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph745.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph746.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph747.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph749.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph755.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph756.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph762.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph764.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph772.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph775.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph776.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph779.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph785.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph791.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph795.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph796.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph798.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph799.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph805.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph806.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph811.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph813.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph814.tif,AC1 800C 5M Q
+data/UHCSDB/micrographs/micrograph816.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph820.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph821.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph828.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph831.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph832.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph833.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph841.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph844.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph847.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph850.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph852.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph854.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph855.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph858.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph859.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph861.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph862.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph864.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph865.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph866.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph867.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph871.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph873.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph877.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph880.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph881.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph883.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph884.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph885.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph887.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph888.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph889.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph890.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph893.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph894.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph896.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph897.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph905.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph906.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph907.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph909.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph912.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph914.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph915.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph917.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph918.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph920.tif,AC1 800C 5M Q
+data/UHCSDB/micrographs/micrograph921.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph925.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph928.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph931.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph933.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph934.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph935.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph936.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph939.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph941.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph947.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph951.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph952.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph954.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph955.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph956.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph959.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph963.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph965.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph967.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph968.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph970.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph971.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph973.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph974.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph984.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph985.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph986.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph989.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph990.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph991.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph995.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph997.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph998.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph999.tif,AC1 970C 48H WQ
+data/UHCSDB/micrographs/micrograph1001.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1003.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1005.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1006.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1008.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1009.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1011.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1012.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1013.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1015.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1017.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1018.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1019.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1020.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph1022.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1025.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1027.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1028.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph1030.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1031.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1032.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1035.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph1038.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph1040.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1045.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1048.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1049.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1052.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph1053.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1054.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph1055.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1056.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1057.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1058.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1059.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph1061.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1062.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1063.tif,AC1 900C 5M Q
+data/UHCSDB/micrographs/micrograph1064.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1068.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph1072.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1075.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1076.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1078.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph1079.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1083.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1092.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph1093.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1094.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1096.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1098.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1100.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1101.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1102.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1103.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1104.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph1105.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph1106.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph1109.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph1111.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1112.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1117.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1119.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1120.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1126.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1127.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1128.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1129.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1134.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1136.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph1138.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph1139.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1140.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1145.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1146.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1150.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1155.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1156.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1159.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1161.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1162.tif,AC1 700C 5M WQ
+data/UHCSDB/micrographs/micrograph1163.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1164.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1167.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph1173.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph1174.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1176.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1177.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1180.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1182.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1183.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph1185.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1186.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1188.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph1189.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1192.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1193.tif,AC1 970C 48H WQ
+data/UHCSDB/micrographs/micrograph1195.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1196.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1197.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1198.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1199.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1200.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1201.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1202.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1205.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1206.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph1207.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1210.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1213.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1214.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph1215.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph1216.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1217.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1218.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1219.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1223.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1226.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1232.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1234.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1238.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1239.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1240.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1243.tif,AC1 1100C 1H 650C 1H
+data/UHCSDB/micrographs/micrograph1247.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1248.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1249.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph1252.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1256.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1257.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1260.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1261.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph1262.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph1265.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1266.tif,AC1 800C 90M WQ
+data/UHCSDB/micrographs/micrograph1272.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1273.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1280.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1281.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1283.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1284.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1285.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph1288.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1289.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1291.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1294.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1295.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1298.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1300.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph1302.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1304.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1305.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1306.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1309.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1311.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1316.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1318.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1321.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1322.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1324.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1326.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1327.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1329.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1330.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1331.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1332.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1333.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1337.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1338.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1339.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph1344.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1347.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1348.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1349.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1351.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1356.tif,AC1 800C 8H Q
+data/UHCSDB/micrographs/micrograph1358.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1359.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph1361.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1367.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1368.tif,AC1 970C 8H WQ
+data/UHCSDB/micrographs/micrograph1370.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1371.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1372.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1374.png,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1379.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1384.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1385.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1388.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1389.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1391.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph1392.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1393.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1394.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1396.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1397.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1399.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1400.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1404.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph1405.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph1406.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1407.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1408.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1409.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1411.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph1412.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1415.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1420.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1422.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1423.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph1424.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1426.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph1427.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1431.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1435.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1436.tif,AC1 + vickers mark
+data/UHCSDB/micrographs/micrograph1440.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1441.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1444.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1446.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1447.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1449.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1451.tif,Gaunt - Utah 1.5 yr explant M
+data/UHCSDB/micrographs/micrograph1452.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1454.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1456.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1457.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph1466.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1467.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1468.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1469.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1473.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1474.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1479.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1482.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph1483.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1485.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1490.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1492.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1500.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1501.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1503.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1506.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1507.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1509.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1510.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1515.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1516.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1517.tif,AC1 970C 90M WQ-2C
+data/UHCSDB/micrographs/micrograph1518.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1519.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1520.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph1521.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1522.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1524.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph1528.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1531.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1536.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1538.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph1543.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1549.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1551.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1552.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1554.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1555.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1556.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1558.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1560.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1561.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1562.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1565.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph1569.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1571.png,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1572.tif,AC1 900C 3H Q
+data/UHCSDB/micrographs/micrograph1573.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1579.tif,AC1 900C 90M Q
+data/UHCSDB/micrographs/micrograph1580.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1581.tif,AC1 970C 90M WC
+data/UHCSDB/micrographs/micrograph1583.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1584.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1586.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1588.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1589.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1597.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1599.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1601.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1603.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1605.tif,AC1 800C 5M WQ
+data/UHCSDB/micrographs/micrograph1607.tif,AC1 970C 90M AR
+data/UHCSDB/micrographs/micrograph1608.tif,AC1 900C 24H Q
+data/UHCSDB/micrographs/micrograph1610.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1611.tif,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1613.tif,AC1 1000C 5M WQ
+data/UHCSDB/micrographs/micrograph1615.tif,Gaunt - Utah 1.5 yr explant M
+data/UHCSDB/micrographs/micrograph1623.tif,AC1 800C 3H WQ
+data/UHCSDB/micrographs/micrograph1624.tif,AC1 800C 3H Q
+data/UHCSDB/micrographs/micrograph1625.tif,Gaunt - Utah 1.5 yr explant M
+data/UHCSDB/micrographs/micrograph1626.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1627.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1633.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1634.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph1637.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1638.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1640.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1644.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1645.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1648.tif,AC1 800C 24H Q
+data/UHCSDB/micrographs/micrograph1651.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1654.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1655.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1661.tif,Gaunt - Utah 1.5 yr explant M
+data/UHCSDB/micrographs/micrograph1662.tif,AC1 970C 90M 65C 4H FC
+data/UHCSDB/micrographs/micrograph1666.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1667.tif,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1671.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1672.tif,AC1 800C 900C 970C 90M WQ
+data/UHCSDB/micrographs/micrograph1675.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1676.png,AC1 970C 3H Q
+data/UHCSDB/micrographs/micrograph1677.tif,AC1 970C 3H WQ
+data/UHCSDB/micrographs/micrograph1682.tif,AC1 970C 8H Q
+data/UHCSDB/micrographs/micrograph1686.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1689.tif,AC1 800C 85H WQ
+data/UHCSDB/micrographs/micrograph1693.tif,AC1 970C 24H Q
+data/UHCSDB/micrographs/micrograph1694.tif,AC1 970C 5M Q
+data/UHCSDB/micrographs/micrograph1696.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1697.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1698.tif,ET Gyro
+data/UHCSDB/micrographs/micrograph1700.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1702.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1703.tif,AC1 900C 90M WQ
+data/UHCSDB/micrographs/micrograph1707.tif,AC 800C 8H WQ
+data/UHCSDB/micrographs/micrograph1710.tif,AC1 970C 90M FC
+data/UHCSDB/micrographs/micrograph1712.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1716.tif,AC1 800C 85H Q
+data/UHCSDB/micrographs/micrograph1718.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1719.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1720.tif,AC1 800C 24H WQ
+data/UHCSDB/micrographs/micrograph1721.tif,IN1 Etched Sample
+data/UHCSDB/micrographs/micrograph1722.tif,AC1 970C 24H WQ
+data/UHCSDB/micrographs/micrograph1723.tif,AC1 IS1010H 35X etched
+data/UHCSDB/micrographs/micrograph1726.tif,AC1 970 5M FC
+data/UHCSDB/micrographs/micrograph1730.png,AC1 970C 90M Q
+data/UHCSDB/micrographs/micrograph1731.tif,SIS_XL.TIF
+data/UHCSDB/micrographs/micrograph1732.tif,AC1 700C 5M WQ
