@@ -54,9 +54,9 @@ ehthumbs.db
 Thumbs.db
 
 # Data files (uncomment if you don't want to track large data files)
-# data/
-# *.tif
-# *.png
+data/UHCSDB/micrographs/
+*.tif
+*.png
 # *.sqlite
 
 # Logs
