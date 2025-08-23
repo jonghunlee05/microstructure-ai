@@ -1,0 +1,12 @@
+{
+  "method": "Hybrid (GLCM+LBP + ResNet18)",
+  "pca_n_components": 48,
+  "svc_C": 2.0,
+  "svc_gamma": "scale",
+  "n_samples": 795,
+  "feature_dims": {
+    "classical": 100,
+    "deep": 512,
+    "hybrid": 48
+  }
+}

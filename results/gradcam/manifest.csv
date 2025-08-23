@@ -1,0 +1,25 @@
+kind,filepath,true,pred,fold,is_correct
+TP,data/UHCSDB/micrographs/micrograph60.tif,Carbide network,Carbide network,1,True
+TP,data/UHCSDB/micrographs/micrograph806.tif,Carbide network,Carbide network,2,True
+TP,data/UHCSDB/micrographs/micrograph114.tif,Martensite/Bainite,Martensite/Bainite,2,True
+TP,data/UHCSDB/micrographs/micrograph44.tif,Martensite/Bainite,Martensite/Bainite,2,True
+TP,data/UHCSDB/micrographs/micrograph1400.tif,Pearlite,Pearlite,1,True
+TP,data/UHCSDB/micrographs/micrograph1260.tif,Pearlite,Pearlite,1,True
+TP,data/UHCSDB/micrographs/micrograph481.tif,Pearlite+Spheroidite,Pearlite+Spheroidite,2,True
+TP,data/UHCSDB/micrographs/micrograph71.tif,Pearlite+Spheroidite,Pearlite+Spheroidite,2,True
+TP,data/UHCSDB/micrographs/micrograph1127.tif,Spheroidite,Spheroidite,2,True
+TP,data/UHCSDB/micrographs/micrograph566.png,Spheroidite,Spheroidite,2,True
+TP,data/UHCSDB/micrographs/micrograph191.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten,2,True
+TP,data/UHCSDB/micrographs/micrograph477.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten,2,True
+Error,data/UHCSDB/micrographs/micrograph1603.tif,Carbide network,Spheroidite,2,False
+Error,data/UHCSDB/micrographs/micrograph189.tif,Carbide network,Martensite/Bainite,2,False
+Error,data/UHCSDB/micrographs/micrograph1531.tif,Martensite/Bainite,Pearlite,1,False
+Error,data/UHCSDB/micrographs/micrograph951.tif,Martensite/Bainite,Spheroidite+Widmanstätten,2,False
+Error,data/UHCSDB/micrographs/micrograph329.tif,Pearlite,Spheroidite,2,False
+Error,data/UHCSDB/micrographs/micrograph554.tif,Pearlite,Spheroidite,2,False
+Error,data/UHCSDB/micrographs/micrograph224.tif,Pearlite+Spheroidite,Spheroidite,1,False
+Error,data/UHCSDB/micrographs/micrograph727.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten,2,False
+Error,data/UHCSDB/micrographs/micrograph1284.tif,Spheroidite,Carbide network,1,False
+Error,data/UHCSDB/micrographs/micrograph464.tif,Spheroidite,Pearlite+Spheroidite,2,False
+Error,data/UHCSDB/micrographs/micrograph967.tif,Spheroidite+Widmanstätten,Spheroidite,2,False
+Error,data/UHCSDB/micrographs/micrograph1610.tif,Spheroidite+Widmanstätten,Spheroidite,2,False

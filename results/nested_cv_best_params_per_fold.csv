@@ -1,0 +1,10 @@
+method,fold,pca__n_components,svc__C,svc__gamma
+Classical (GLCM+LBP),1,,2.0,0.003
+Classical (GLCM+LBP),2,32.0,5.0,0.003
+Classical (GLCM+LBP),3,,2.0,0.03
+Deep (ResNet18),1,32.0,2.0,scale
+Deep (ResNet18),2,32.0,1.0,scale
+Deep (ResNet18),3,64.0,0.5,scale
+Hybrid,1,48.0,5.0,scale
+Hybrid,2,,2.0,scale
+Hybrid,3,80.0,1.0,scale
