@@ -1,5 +1,5 @@
 filepath,true,pred
-data/UHCSDB/micrographs/micrograph1.tif,Pearlite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph8.tif,Carbide network,Martensite/Bainite
 data/UHCSDB/micrographs/micrograph9.tif,Carbide network,Martensite/Bainite
 data/UHCSDB/micrographs/micrograph10.png,Spheroidite,Spheroidite
@@ -16,51 +16,51 @@ data/UHCSDB/micrographs/micrograph157.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph170.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph184.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph192.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph193.tif,Pearlite+Spheroidite,Pearlite+Spheroidite
+data/UHCSDB/micrographs/micrograph193.tif,Pearlite+Spheroidite,Pearlite
 data/UHCSDB/micrographs/micrograph194.tif,Pearlite,Pearlite
-data/UHCSDB/micrographs/micrograph212.tif,Pearlite,Spheroidite
+data/UHCSDB/micrographs/micrograph212.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph220.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph248.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph248.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph265.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph271.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph296.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph311.tif,Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph311.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph312.tif,Spheroidite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph318.png,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph330.tif,Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph330.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph337.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph347.tif,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph351.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph353.tif,Pearlite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph351.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph353.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph371.tif,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph373.tif,Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph373.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph382.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph397.tif,Pearlite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph466.tif,Pearlite+Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph466.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph474.png,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph481.tif,Pearlite+Spheroidite,Pearlite+Spheroidite
 data/UHCSDB/micrographs/micrograph483.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph486.tif,Spheroidite,Martensite/Bainite
-data/UHCSDB/micrographs/micrograph499.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph486.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph499.tif,Pearlite+Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph515.tif,Pearlite+Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph522.tif,Pearlite+Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph544.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph544.tif,Pearlite+Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph569.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph573.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph573.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph576.tif,Pearlite+Spheroidite,Pearlite+Spheroidite
 data/UHCSDB/micrographs/micrograph584.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph589.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph597.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph598.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph609.tif,Pearlite+Spheroidite,Martensite/Bainite
+data/UHCSDB/micrographs/micrograph609.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph626.tif,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph632.tif,Spheroidite,Pearlite
-data/UHCSDB/micrographs/micrograph642.tif,Carbide network,Martensite/Bainite
-data/UHCSDB/micrographs/micrograph643.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph649.tif,Carbide network,Martensite/Bainite
+data/UHCSDB/micrographs/micrograph632.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph642.tif,Carbide network,Carbide network
+data/UHCSDB/micrographs/micrograph643.tif,Spheroidite+Widmanstätten,Spheroidite
+data/UHCSDB/micrographs/micrograph649.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph660.tif,Pearlite+Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph664.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph677.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph677.tif,Pearlite+Spheroidite,Pearlite
 data/UHCSDB/micrographs/micrograph679.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph681.png,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph689.png,Spheroidite,Spheroidite
@@ -70,90 +70,90 @@ data/UHCSDB/micrographs/micrograph721.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph725.tif,Pearlite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph741.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph746.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph749.tif,Pearlite+Spheroidite,Martensite/Bainite
-data/UHCSDB/micrographs/micrograph762.tif,Spheroidite,Pearlite
-data/UHCSDB/micrographs/micrograph764.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph749.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph762.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph764.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph779.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph805.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph820.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph858.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph859.tif,Spheroidite,Pearlite
-data/UHCSDB/micrographs/micrograph871.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph873.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph887.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph894.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph896.tif,Pearlite,Spheroidite
+data/UHCSDB/micrographs/micrograph859.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph871.tif,Pearlite+Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph873.tif,Spheroidite+Widmanstätten,Pearlite
+data/UHCSDB/micrographs/micrograph887.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph894.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph896.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph912.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph914.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph914.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph935.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph947.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph947.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph990.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph997.tif,Pearlite+Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1001.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1006.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1011.tif,Pearlite,Pearlite
-data/UHCSDB/micrographs/micrograph1020.tif,Spheroidite,Martensite/Bainite
+data/UHCSDB/micrographs/micrograph1020.tif,Spheroidite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph1028.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1053.tif,Pearlite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph1068.tif,Pearlite+Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph1053.tif,Pearlite,Pearlite
+data/UHCSDB/micrographs/micrograph1068.tif,Pearlite+Spheroidite,Pearlite+Spheroidite
 data/UHCSDB/micrographs/micrograph1072.tif,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph1076.tif,Pearlite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1076.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1094.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1096.tif,Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph1096.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1098.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1102.tif,Pearlite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph1105.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1120.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1120.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1139.png,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1146.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1180.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1180.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1188.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1196.tif,Spheroidite,Pearlite
-data/UHCSDB/micrographs/micrograph1197.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1196.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph1197.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1205.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1206.tif,Pearlite+Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1213.tif,Pearlite,Martensite/Bainite
+data/UHCSDB/micrographs/micrograph1206.tif,Pearlite+Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph1213.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1232.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1243.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph1266.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1305.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1309.png,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph1322.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1322.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1327.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1331.tif,Spheroidite+Widmanstätten,Spheroidite
 data/UHCSDB/micrographs/micrograph1356.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1361.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1371.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1374.png,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph1399.tif,Carbide network,Martensite/Bainite
+data/UHCSDB/micrographs/micrograph1399.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1408.tif,Carbide network,Martensite/Bainite
-data/UHCSDB/micrographs/micrograph1441.tif,Pearlite+Spheroidite,Pearlite
-data/UHCSDB/micrographs/micrograph1447.tif,Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph1441.tif,Pearlite+Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1447.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1468.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1479.tif,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph1483.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1483.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1501.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1507.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1510.tif,Carbide network,Carbide network
-data/UHCSDB/micrographs/micrograph1515.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph1516.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1515.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph1516.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1554.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1555.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1579.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph1583.tif,Carbide network,Martensite/Bainite
+data/UHCSDB/micrographs/micrograph1579.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph1583.tif,Carbide network,Carbide network
 data/UHCSDB/micrographs/micrograph1588.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1597.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1601.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten
 data/UHCSDB/micrographs/micrograph1610.tif,Spheroidite+Widmanstätten,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph1627.tif,Carbide network,Martensite/Bainite
-data/UHCSDB/micrographs/micrograph1640.tif,Spheroidite,Spheroidite+Widmanstätten
+data/UHCSDB/micrographs/micrograph1627.tif,Carbide network,Carbide network
+data/UHCSDB/micrographs/micrograph1640.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1644.tif,Pearlite+Spheroidite,Pearlite
-data/UHCSDB/micrographs/micrograph1645.tif,Spheroidite,Pearlite+Spheroidite
+data/UHCSDB/micrographs/micrograph1645.tif,Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1651.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph1655.tif,Pearlite,Spheroidite
-data/UHCSDB/micrographs/micrograph1662.tif,Pearlite+Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph1655.tif,Pearlite,Pearlite
+data/UHCSDB/micrographs/micrograph1662.tif,Pearlite+Spheroidite,Spheroidite
 data/UHCSDB/micrographs/micrograph1671.tif,Pearlite,Pearlite
 data/UHCSDB/micrographs/micrograph1677.tif,Spheroidite,Spheroidite
-data/UHCSDB/micrographs/micrograph1682.tif,Spheroidite,Spheroidite+Widmanstätten
-data/UHCSDB/micrographs/micrograph1698.tif,Pearlite,Spheroidite
-data/UHCSDB/micrographs/micrograph1720.tif,Spheroidite,Pearlite
+data/UHCSDB/micrographs/micrograph1682.tif,Spheroidite,Spheroidite
+data/UHCSDB/micrographs/micrograph1698.tif,Pearlite,Pearlite
+data/UHCSDB/micrographs/micrograph1720.tif,Spheroidite,Spheroidite
